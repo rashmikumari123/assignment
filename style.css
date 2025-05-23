@@ -128,42 +128,8 @@ body {
   border-color: red;
 }
 
-/* About Section 
-.about-section {
-  background-color: black;
-  color: white;
-  text-align: center;
-  padding: 60px 20px;
-  font-family: Arial, sans-serif;
-}
-
-.about-section h2 {
-  font-size: 36px;
-  margin-bottom: 20px;
-}
-
-.about-section p {
-  max-width: 800px;
-  margin: 0 auto 40px;
-  line-height: 1.6;
-  font-size: 16px;
-  color: #ccc;
-}
-
-.image-gallery {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap;
-}
-
-.image-gallery img {
-  width: 100%;
-  max-width: 300px;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
-}*/
-     .about-tala {
+/*about-section*/
+   .about-tala {
             max-width: 1200px;
             margin: 0 auto;
             padding: 60px 40px;
@@ -172,7 +138,7 @@ body {
             grid-template-rows: auto auto;
             gap: 40px;
             align-items: start;
-        }
+      }
 
         .text-section {
             grid-column: 1;
