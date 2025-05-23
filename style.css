@@ -128,8 +128,11 @@ body {
   border-color: red;
 }
 
-/*about-section*/
-   .about-tala {
+/* About Section */
+
+
+  
+     .about-tala {
             max-width: 1200px;
             margin: 0 auto;
             padding: 60px 40px;
@@ -138,7 +141,7 @@ body {
             grid-template-rows: auto auto;
             gap: 40px;
             align-items: start;
-      }
+        }
 
         .text-section {
             grid-column: 1;
@@ -651,7 +654,7 @@ body {
 
 
 .footer {
-  background-color: #000;
+  background-color: #111;
   color: #ccc;
   margin-top: 5rem;
 }
@@ -720,7 +723,7 @@ body {
 /* Right Section */
 .footer-right {
   flex: 1;
-  background-color: #000;
+  background-color: #111;
   display: flex;
   justify-content: space-around;
   padding: 40px;
